@@ -2,6 +2,8 @@
 
 A sample .NET Core Razor Pages app with root Dockerfile to test out [Deelo Cloud](https://www.deelo.cloud/).
 
+Deployed to [https://deelocloud-aspnetapp.deelo.cloud/](https://deelocloud-aspnetapp.deelo.cloud/) 🚀
+
 ## .NET Core Razor Pages
 
 The app was created using the `dotnet new webapp` template and is the default output for a .NET Core Razor Pages app.
